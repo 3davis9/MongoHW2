@@ -106,7 +106,7 @@ for doc in results:
 
 
 #QUESTION 6
-print('\n'+'### Question 5 ###')
+print('\n'+'### Question 6 ###')
 
 pipeline = [
   {
